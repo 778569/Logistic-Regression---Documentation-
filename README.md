@@ -20,5 +20,13 @@
 ![image](https://github.com/778569/Logistic-Regression---Documentation-/assets/52319671/ae164b80-3ccb-4859-890f-b3d7c1ecb4d7)<br>
 ![image](https://github.com/778569/Logistic-Regression---Documentation-/assets/52319671/6866a460-a8eb-49d5-9896-86a9c3bbb675)<br/><br/>
 
-For More information- Reffer the Document 02 (Logistic-Regression 02)
+For More information- Reffer the Document 02 (Logistic-Regression 02) <br/><br/>
 
+
+![image](https://github.com/778569/Logistic-Regression---Documentation-/assets/52319671/4234d327-db99-45b0-a1d6-f98b2152636c) <br/><br/>
+
+P – Probability of having malignant cancer [h(X)] <br/><br/>
+
+Cost function of Logistic regression <br/><br/>
+
+![image](https://github.com/778569/Logistic-Regression---Documentation-/assets/52319671/2e6761c5-6b4e-4e6b-9716-e5138dcf8564)
