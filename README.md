@@ -14,3 +14,11 @@
 * If you have to predict the categorical variable (like gender, or difficulty of exam) using Classification.<br/><br/>
 
 ![image](https://github.com/778569/Logistic-Regression---Documentation-/assets/52319671/2ccf7a06-2fab-4cf6-9a97-633e86555d03)
+
+# predict the categorical variable using Regression (predict the categorical variable)
+
+![image](https://github.com/778569/Logistic-Regression---Documentation-/assets/52319671/ae164b80-3ccb-4859-890f-b3d7c1ecb4d7)<br>
+![image](https://github.com/778569/Logistic-Regression---Documentation-/assets/52319671/6866a460-a8eb-49d5-9896-86a9c3bbb675)<br/><br/>
+
+For More information- Reffer the Document 02 (Logistic-Regression 02)
+
